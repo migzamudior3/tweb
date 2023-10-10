@@ -1,4 +1,4 @@
-### 1.9.6 (400)
+q### 1.9.6 (400)
 You can see the full list of new features and improvements here: https://t.me/WebK_en/12
 
 ### 1.8.0 (322)
